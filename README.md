@@ -33,3 +33,23 @@ GRAPHENE = {
 ### Go to `http://localhost:8000`
 Django's "hello" page is displayed!
 
+____
+
+## 1. Queries
+```
+git checkout -b queries
+git push --set-upstream origin queries
+```
+
+`Go to `http://localhost:8000/graphql/` and enter the following in the left pane:
+```
+query {
+  links {
+    id
+    description
+    url
+  }
+}
+```
+
+
