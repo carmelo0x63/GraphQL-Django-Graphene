@@ -1,5 +1,5 @@
 # GraphQL-Python
-Python implementation of a GraphQL server
+Python implementation of a GraphQL server. Based on Django, Graphene.
 
 ## 0. Setup
 ```
