@@ -1,6 +1,8 @@
 # GraphQL-Python
 Python implementation of a GraphQL server. Based on Django, Graphene.
 
+source: `https://www.howtographql.com/graphql-python/0-introduction/`
+
 ## 0. Setup
 ```
  python3 -m venv .
